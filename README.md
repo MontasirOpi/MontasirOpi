@@ -1,31 +1,36 @@
-### Hi there 👋, I'm montasir opi
-#### A passionate programmer from Bangladesh
-![A passionate programmer from Bangladesh](https://camo.githubusercontent.com/91d6686979e55b55016f048f5a96a32a9b166d286db80a2cb02adcce3cf9756d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966)
+<h1 align="center">Hi 👋, I'm montasir opi</h1>
+<h3 align="center">A passionate programmer from Bangladesh.</h3>
 
-Passionate developer | Open-source enthusiast | Problem solver | Continuous learner | 
+<p align="left"> <img src="https://camo.githubusercontent.com/91d6686979e55b55016f048f5a96a32a9b166d286db80a2cb02adcce3cf9756d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30662f32352f65342f30663235653436363863316337373430623565643431383335333339643637662e676966" alt="montasiropi" /> </p>
 
-Skills: C++/ JS 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=montasiropi" alt="montasiropi" /></a> </p>
 
-- 🔭 I’m currently working on full stack developer 
-- 🌱 I’m currently learning react JS ,Next JS, Prisma 
-- 📫 How to reach me: montasiropi@gmail.com 
-- ⚡ Fun fact: I love to watch movie. 
+- 🔭 I’m currently working on **full stack developer**
 
+- 🌱 I’m currently learning **React JS ,Next JS, Prisma**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/montasiropi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fahim-montasir-opi-161b65256/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/montasir.opi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/montasiropi/)  
+- 👨‍💻 All of my projects are available at [montasiropi](montasiropi)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 💬 Ask me about **C++ , JS**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=montasiropi)](https://github.com/ryo-ma/github-profile-trophy)
+- 📫 How to reach me **montasiropi@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=montasiropi)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I love to watch movie.**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=montasiropi&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/fahim-montasir-opi-161b65256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahim-montasir-opi-161b65256" height="30" width="40" /></a>
+<a href="https://fb.com/montasir.opi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="montasir.opi" height="30" width="40" /></a>
+<a href="https://instagram.com/montasiropi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="montasiropi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/murphy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="murphy10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/montasiropi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="montasiropi" height="30" width="40" /></a>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=montasiropi)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-![GitHub metrics](https://metrics.lecoq.io/montasiropi)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=montasiropi&show_icons=true&locale=en&layout=compact" alt="montasiropi" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=montasiropi)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=montasiropi&show_icons=true&locale=en" alt="montasiropi" /></p>
 
-![Profile views](https://gpvc.arturio.dev/montasiropi)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montasiropi&" alt="montasiropi" /></p>
