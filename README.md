@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=montasiropi" alt="montasiropi" /></a> </p>
 
-- 🔭 I’m currently working on **full stack developer**
+- 🔭 I’m currently working on **App Development**
 
-- 🌱 I’m currently learning **React JS ,Next JS, Prisma**
+- 🌱 I’m currently learning **flutter **
 
 - 👨‍💻 All of my projects are available at [montasiropi](montasiropi)
 
-- 💬 Ask me about **C++ , JS**
+- 💬 Ask me about **C, C++, Dart**
 
 - 📫 How to reach me **montasiropi@gmail.com**
 
