@@ -77,3 +77,4 @@ Here are some of my proudest Flutter projects:
 ---
 
 Feel free to explore my repositories and let’s build something amazing together! 🚀
+![](https://komarev.com/ghpvc/?username=MontasirOpi)
