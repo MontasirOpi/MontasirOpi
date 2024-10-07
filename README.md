@@ -1,6 +1,18 @@
 # 👋 Hello, Flutter Enthusiast! I'm Fahim Montasir Opi 🌟
 
 ## 🌈 About Me
+
+<!-- Horizontal Badge Banner -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React.Js-23272F?logo=react&logoColor=149ECA&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-07B0CE?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+---
+
 I'm a **Flutter app developer** passionate about building beautiful and performant mobile applications. I enjoy crafting user-friendly interfaces and delivering seamless user experiences. Let's create something amazing together!
 
 - 🖥️ **Tech Stack**: Flutter, Dart, Firebase, REST APIs
@@ -43,7 +55,6 @@ Here are some of my proudest Flutter projects:
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=dracula)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MontasirOpi&theme=dracula)
 
 ---
 
