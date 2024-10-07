@@ -1,6 +1,6 @@
 # 👋 Hello, Flutter Enthusiast! I'm Fahim Montasir Opi 🌟
 
-## 🌈 About Me
+##  About Me
 I'm a **Flutter app developer** passionate about building beautiful and performant mobile applications. I enjoy crafting user-friendly interfaces and delivering seamless user experiences. Let's create something amazing together!
 
 - 🖥️ **Tech Stack**: Flutter, Dart, Firebase, REST APIs
