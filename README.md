@@ -1,18 +1,18 @@
-<!-- Horizontal Badge Banner -->
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.Js-23272F?logo=react&logoColor=149ECA&style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-07B0CE?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!-- Badge Section -->
+<p align="center">
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React.Js-23272F?logo=react&logoColor=149ECA&style=for-the-badge"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-07B0CE?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+</p>
 
 ---
 
 # 👋 Hello, Flutter Enthusiast! I'm Fahim Montasir Opi 🌟
 
-##  About Me
-
-
+## About Me
 I'm a **Flutter app developer** passionate about building beautiful and performant mobile applications. I enjoy crafting user-friendly interfaces and delivering seamless user experiences. Let's create something amazing together!
 
 - 🖥️ **Tech Stack**: Flutter, Dart, Firebase, REST APIs
@@ -46,20 +46,26 @@ Here are some of my proudest Flutter projects:
 |--------------|------------------|----------------|---------------------|
 | Dart         | Flutter          | Firebase       | Git                 |
 | Dart         | Flutter Web      | SQLite         | Android Studio       |
-| Dart         | Flutter Desktop   | REST APIs      | Visual Studio Code   |
+| Dart         | Flutter Desktop  | REST APIs      | Visual Studio Code   |
 | JavaScript   | React            |                |                     |
 | C++          |                  |                |                     |
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=dracula" alt="Top Languages"/>
+</p>
 
 ---
 
 ## 🤝 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/fahim-montasir-opi-161b65256/) | [Personal Website](https://montasiropi.netlify.app/) | [Facebook](https://www.facebook.com/montasiropi/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahim-montasir-opi-161b65256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://montasiropi.netlify.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.facebook.com/montasiropi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
 ---
 
