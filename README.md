@@ -1,11 +1,26 @@
 # 👋 Hello, Flutter Enthusiast! I'm Fahim Montasir Opi 🌟
 
+## 🌍 Languages & Technologies
+- **Languages**: Dart, JavaScript, C++
+- **Frameworks**: Flutter, React
+- **Databases**: Firebase, SQLite
+- **Tools**: Git, Android Studio, Visual Studio Code
+- **APIs**: REST APIs
+
 ##  About Me
 I'm a **Flutter app developer** passionate about building beautiful and performant mobile applications. I enjoy crafting user-friendly interfaces and delivering seamless user experiences. Let's create something amazing together!
 
-- 🖥️ **Tech Stack**: Flutter, Dart, Firebase, REST APIs
 - 🌍 **Currently Learning**: State Management (Provider, Riverpod)
 - 🎯 **Looking to Collaborate**: Open to working on exciting Flutter projects!
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=dracula)
+
+### 📈 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=dracula)
+
+### 📅 Contribution Activity
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=MontasirOpi&theme=dracula)
 
 ## 🚀 Featured Projects
 Here are some of my proudest Flutter projects:
@@ -22,20 +37,8 @@ Here are some of my proudest Flutter projects:
 
 ### 🔍 [WhatsApp UI Clone](https://github.com/MontasirOpi/Whatsapp_UI_phone_web_flutter)
 - **Description**: A responsive UI clone of the WhatsApp application, showcasing chat interfaces and navigation similar to the original app. This project focuses on UI/UX design and Flutter's layout capabilities.
-- **Tech Used**: Flutter
+- **Tech Used**: Flutter, SQLite
 - **What I Learned**: Enhanced my skills in designing responsive layouts and managing local databases.
-
-## 🛠️ Skills & Tools
-| Language     | Framework        | Database       | Tools              |
-|--------------|------------------|----------------|---------------------|
-| Dart         | Flutter          | Firebase       | Git                 |
-| Dart         | Flutter Web      | SQLite         | Android Studio       |
-| Dart         | Flutter Desktop   | REST APIs      | Visual Studio Code   |
-| JavaScript   | React            |                |                     |
-| C++          |                  |                |                     |
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=dracula)
 
 ## 🤝 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/fahim-montasir-opi-161b65256/) | [Personal Website](https://montasiropi.netlify.app/) | [Facebook](https://www.facebook.com/montasiropi/)
