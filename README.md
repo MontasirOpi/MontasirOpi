@@ -24,10 +24,10 @@ I'm a **Flutter app developer** passionate about building beautiful and performa
 ## 🚀 Featured Projects
 Here are some of my proudest Flutter projects:
 
-### 🌟 [Dice Roll App](https://github.com/MontasirOpi/Dice_Roll_APP_Flutter)
-- 🎲 **Description**: A fun and interactive dice rolling app that simulates rolling dice. Users can roll multiple dice at once, making it perfect for games that require random number generation.
-- 🔧 **Tech Used**: Flutter, Dart
-- 📚 **What I Learned**: Improved my understanding of Flutter animations and state management.
+### 🌟 [Task manager app ](https://github.com/MontasirOpi/task-manager-app-flutter)
+- 🎲 **Description**: A full task manager app with api
+- 🔧 **Tech Used**: Flutter, Dart,api,postman and so on...
+- 📚 **What I Learned**: Improved my understanding of Flutter api calling.
 
 ### 🎨 [Weather App](https://github.com/MontasirOpi/weather-app-using-flutter)
 - ☀️ **Description**: This app provides real-time weather information based on user location. It uses a REST API to fetch weather data and displays it in an intuitive UI.
