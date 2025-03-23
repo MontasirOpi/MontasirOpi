@@ -16,7 +16,7 @@
 I'm a **Flutter app developer** passionate about building beautiful and performant mobile applications. I enjoy crafting user-friendly interfaces and delivering seamless user experiences. Let's create something amazing together!
 
 - 🖥️ **Tech Stack**: Flutter, Dart, Firebase, REST APIs
-- 🌍 **Currently Learning**: State Management (Provider, Riverpod)
+- 🌍 **Currently Learning**: State Management (bloc)
 - 🎯 **Looking to Collaborate**: Open to working on exciting Flutter projects!
 
 ---
