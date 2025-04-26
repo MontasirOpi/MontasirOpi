@@ -48,12 +48,12 @@ Here are some of my proudest Flutter projects:
 ---
 
 ## 🛠️ Skills & Tools
-| Language     | Framework        | Database       | Tools              |
-|--------------|------------------|----------------|---------------------|
+| Language     | Framework        | Database       | Tools               |
+|--------------|------------------|----------------|-------------------- |
 | Dart         | Flutter          | Firebase       | Git                 |
-| Dart         | Flutter Web      | SQLite         | Android Studio       |
-| Dart         | Flutter Desktop  | REST APIs      | Visual Studio Code   |
-| JavaScript   | React            |                |                     |
+| Dart         | Flutter Web      | SQLite         | Android Studio      |
+| Dart         | Flutter Desktop  | REST APIs      | Visual Studio Code  |
+| JavaScript   | React            | Supabase       | Cursor ide          |
 | C++          |                  |                |                     |
 
 ---
