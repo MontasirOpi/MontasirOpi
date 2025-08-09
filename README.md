@@ -66,20 +66,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=dracula" height="180"/>
 </p>
 
-<!-- GitHub Streak -->
+---
+
+
+
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MontasirOpi&theme=dracula" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MontasirOpi&theme=dracula&column=7" alt="GitHub Trophies" />
 </p>
 
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MontasirOpi&theme=dracula&column=7" alt="Trophies" />
-</p>
-
-<!-- Contribution Snake -->
-<p align="center">
-  <img src="https://github.com/MontasirOpi/MontasirOpi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+---
 
 ---
 
