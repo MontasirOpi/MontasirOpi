@@ -1,8 +1,16 @@
-<!-- Badge Section -->
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Fahim Montasir Opi</h1>
+<h3 align="center">💻 Flutter Developer | Mobile & Web App Enthusiast | Open Source Contributor 🚀</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AF745&center=true&vCenter=true&width=500&lines=Flutter+App+Developer;React+and+Web+Enthusiast;Lifelong+Learner+%26+Problem+Solver;Love+building+beautiful+UI/UX" alt="Typing Animation" />
+</p>
+
+<!-- Badges -->
 <p align="center">
   <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
   <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React.Js-23272F?logo=react&logoColor=149ECA&style=for-the-badge"/></a>
   <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-07B0CE?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
@@ -10,63 +18,72 @@
 
 ---
 
-# 👋 Hello, Flutter Enthusiast! I'm Fahim Montasir Opi 🌟
-
-## About Me
-I'm a **Flutter app developer** passionate about building beautiful and performant mobile applications. I enjoy crafting user-friendly interfaces and delivering seamless user experiences. Let's create something amazing together!
-
-- 🖥️ **Tech Stack**: Flutter, Dart, Firebase,Supabase, REST APIs
-- 🌍 **Currently Learning**: State Management (bloc)
-- 🎯 **Looking to Collaborate**: Open to working on exciting Flutter projects!
+## 🚀 About Me
+- 🖥 **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs  
+- 🌱 **Currently Learning:** State Management (BLoC)  
+- 🤝 **Looking to Collaborate On:** Exciting Flutter projects  
+- 📫 **Reach Me At:** [montasiropi@gmail.com](mailto:montasiropi@gmail.com)  
 
 ---
 
-## 🚀 Featured Projects
-Here are some of my proudest Flutter projects:
+## 📌 Featured Projects
 
-### 🌟 [Task manager app ](https://github.com/MontasirOpi/task-manager-app-flutter)
-- 🎲 **Description**: A full task manager app with api
-- 🔧 **Tech Used**: Flutter, Dart,api,postman and so on...
-- 📚 **What I Learned**: Improved my understanding of Flutter api calling.
+### 🌟 [Task Manager App](https://github.com/MontasirOpi/task-manager-app-flutter)
+> **Tech:** Flutter, Dart, REST API  
+> **Description:** Full-featured task manager with API integration.  
+> **Learned:** API calling and integration best practices.
 
-### 🎨 [Weather App](https://github.com/MontasirOpi/weather-app-using-flutter)
-- ☀️ **Description**: This app provides real-time weather information based on user location. It uses a REST API to fetch weather data and displays it in an intuitive UI.
-- 🔧 **Tech Used**: Flutter, REST API
-- 📚 **What I Learned**: Gained experience in working with APIs and displaying dynamic content in Flutter.
+### ☀️ [Weather App](https://github.com/MontasirOpi/weather-app-using-flutter)
+> **Tech:** Flutter, REST API  
+> **Description:** Real-time weather info with location-based search.  
+> **Learned:** Dynamic content rendering.
 
-### 🔍 [WhatsApp UI Clone](https://github.com/MontasirOpi/Whatsapp_UI_phone_web_flutter)
-- 📱 **Description**: A responsive UI clone of the WhatsApp application, showcasing chat interfaces and navigation similar to the original app. This project focuses on UI/UX design and Flutter's layout capabilities.
-- 🔧 **Tech Used**: Flutter, SQLite
-- 📚 **What I Learned**: Enhanced my skills in designing responsive layouts and managing local databases.
+### 💬 [WhatsApp UI Clone](https://github.com/MontasirOpi/Whatsapp_UI_phone_web_flutter)
+> **Tech:** Flutter, SQLite  
+> **Description:** Responsive WhatsApp UI clone for phone & web.  
+> **Learned:** Local DB management and responsive layouts.
 
-### 🔍 [Tea stall review Website with react.](https://github.com/MontasirOpi/TEA-STALL-REVIEW) 
-###     [Live link](https://teastallbd.netlify.app/)
-- 📱 **Description**: A responsive website with react 
-- 🔧 **Tech Used**: React,js,tailwind css,firebase,
-- 📚 **What I Learned**: Enhanced my skills in designing responsive layouts and managing  databases and woring with React.
+### 🍵 [Tea Stall Review Website](https://github.com/MontasirOpi/TEA-STALL-REVIEW)  
+> **Live Demo:** [Click Here](https://teastallbd.netlify.app/)  
+> **Tech:** React, JS, Tailwind CSS, Firebase
 
 ---
 
-## 🛠️ Skills & Tools
-| Language     | Framework        | Database       | Tools               |
-|--------------|------------------|----------------|-------------------- |
-| Dart         | Flutter          | Firebase       | Git                 |
-| C++          | Flutter Web      | SQLite         | Android Studio      |
-| python       | Flutter Desktop  | REST APIs      | Visual Studio Code  |
-| JavaScript   | React            | Supabase       | Cursor ide          |
+## 🛠 Skills & Tools
 
+| Languages    | Frameworks       | Databases    | Tools              |
+|--------------|------------------|--------------|--------------------|
+| Dart         | Flutter          | Firebase     | Git                |
+| C++          | Flutter Web      | SQLite       | Android Studio     |
+| Python       | React            | Supabase     | VS Code, Cursor IDE|
+| JavaScript   | Tailwind CSS     | REST APIs    | Postman            |
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=dracula" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=dracula" height="180"/>
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MontasirOpi&theme=dracula" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MontasirOpi&theme=dracula&column=7" alt="Trophies" />
+</p>
+
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://github.com/MontasirOpi/MontasirOpi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/fahim-montasir-opi-161b65256/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://montasiropi.netlify.app/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
@@ -76,12 +93,10 @@ Here are some of my proudest Flutter projects:
 ---
 
 ## 🎉 Fun Facts
-- 🎨 I enjoy **exploring new UI designs** and implementing them in my apps.
-- ☕ I'm an avid **coffee lover** who enjoys coding in cozy cafés.
-- 🌍 In my spare time, I like to contribute to **open-source Flutter projects**.
+- 🎨 Love **exploring & building unique UI designs**  
+- ☕ Coffee-powered coding sessions are my jam  
+- 🌍 Enjoy contributing to **open-source projects**  
 
 ---
 
-Feel free to explore my repositories and let’s build something amazing together! 🚀
-<br/>
-![](https://komarev.com/ghpvc/?username=MontasirOpi)
+![](https://komarev.com/ghpvc/?username=MontasirOpi&style=flat-square)
