@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Fahim Montasir Opi</h1>
-<h3 align="center">💻 Flutter Developer | Mobile & Web App Enthusiast | Open Source Contributor 🚀</h3>
+<h3 align="center">💻 Flutter Developer | Mobile & Web App Enthusiast 🚀</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -22,7 +22,7 @@
 - 🖥 **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs  
 - 🌱 **Currently Learning:** State Management (BLoC)  
 - 🤝 **Looking to Collaborate On:** Exciting Flutter projects  
-- 📫 **Reach Me At:** [montasiropi@gmail.com](mailto:montasiropi@gmail.com)  
+- 📫 **Reach Me At:** [devmontasir@gmail.com](mailto:devmontasir@gmail.com)  
 
 ---
 
