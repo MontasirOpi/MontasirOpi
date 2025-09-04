@@ -19,7 +19,7 @@
 ---
 
 ## 🚀 About Me
-- 🖥 **Tech Stack:** Flutter, Dart, Firebase, Supabase, REST APIs  
+- 🖥 **Tech Stack:** Flutter, Dart,python, Firebase, Supabase, REST APIs  
 - 🌱 **Currently Learning:** State Management (BLoC)  
 - 🤝 **Looking to Collaborate On:** Exciting Flutter projects  
 - 📫 **Reach Me At:** [devmontasir@gmail.com](mailto:devmontasir@gmail.com)  
@@ -38,10 +38,16 @@
 > **Description:** Real-time weather info with location-based search.  
 > **Learned:** Dynamic content rendering.
 
-### 💬 [WhatsApp UI Clone](https://github.com/MontasirOpi/Whatsapp_UI_phone_web_flutter)
-> **Tech:** Flutter, SQLite  
-> **Description:** Responsive WhatsApp UI clone for phone & web.  
-> **Learned:** Local DB management and responsive layouts.
+### ☀️ [Move App](https://github.com/MontasirOpi/tmdb_move_app)
+> **Tech:** Flutter, REST API  
+> **Description:** Real-time movie  info .  
+> **Learned:** Dynamic content rendering.
+
+
+### 💬 [Library App](https://github.com/MontasirOpi/library_management_system)
+> **Tech:** Flutter, Supabase 
+> **Description:** Full Library Management App Student part.  
+> **Learned:** Auth,database and many more.
 
 ### 🍵 [Tea Stall Review Website](https://github.com/MontasirOpi/TEA-STALL-REVIEW)  
 > **Live Demo:** [Click Here](https://teastallbd.netlify.app/)  
