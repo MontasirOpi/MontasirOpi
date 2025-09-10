@@ -145,7 +145,6 @@ Explore the tools and tech I wield to craft digital magic! 🚀
 ## 🌐 Let’s Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/fahim-montasir-opi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/></a>
-  <a href="https://montasiropi.netlify.app/"><img src="https://img.shields.io/badge/Personal_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=1E90FF"/></a>
   <a href="https://opiwebapp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=1E90FF"/></a>
   <a href="https://www.facebook.com/montasiropi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=4267B2"/></a>
 </p>
