@@ -64,8 +64,9 @@ I'm a **Flutter enthusiast** and **Tec lover** on a mission to build apps that a
 
 ### 💼 [Flutter Package date_with_range_picker](https://github.com/MontasirOpi/portfolio_flutter)  
 > **Tech:** Flutter   
-> **What It Does:** A Package for date and time picker with range functionality.
+> **What It Does:** A Package for date and time picker with range functionality
 > **Live:** https://pub.dev/packages/date_with_range_picker
+
 
 ---
 
