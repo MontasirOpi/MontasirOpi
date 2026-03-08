@@ -152,28 +152,6 @@ Open-source Flutter package for date & time picking with range selection. Publis
 
 ---
 
-## CONTRIBUTION SNAKE
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MontasirOpi/MontasirOpi/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MontasirOpi/MontasirOpi/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/MontasirOpi/MontasirOpi/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
-> ⚙️ To activate the snake: go to your profile repo → **Actions** → enable **"Generate Snake"** workflow (uses [Platane/snk](https://github.com/Platane/snk)).
-
----
-
-## WAKATIME CODING STATS
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MontasirOpi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact" width="500"/>
-</div>
-
-> ⚙️ To activate WakaTime: install the [WakaTime plugin](https://wakatime.com/plugins) in VS Code / Android Studio, connect your account, then add your WakaTime username above.
-
 ---
 
 ## A BIT MORE ABOUT ME
