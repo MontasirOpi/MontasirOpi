@@ -1,178 +1,238 @@
-  <!-- Animated Header -->
-<h1 align="center">👋 Hey, I'm Fahim Montasir Opi! 🚀</h1>
-<h3 align="center">Crafting Seamless Mobile & Web Experiences with Flutter ✨</h3>
+<div align="center">
 
-<!-- Dynamic Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=800&color=0AF745&center=true&vCenter=true&width=600&lines=Flutter+Wizard+%7C+UI/UX+Dreamer;Building+Apps+That+Spark+Joy;Code,+Coffee,+and+Creativity;Turning+Ideas+Into+Reality" alt="Typing Animation" />
-</p>
+```
+██████╗ ██████╗ ██╗
+██╔═══██╗██╔══██╗██║
+██║   ██║██████╔╝██║
+██║   ██║██╔═══╝ ██║
+╚██████╔╝██║     ██║
+ ╚═════╝ ╚═╝     ╚═╝
+```
 
-<!-- Tech Stack Badges -->
-<p align="center">
-  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&color=1E90FF"/></a>
-  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&color=00BFFF"/></a>
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=23272F"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></a>
-  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=4682B4"/></a>
-</p>
-
----
-
-## 🌌 Who Am I?
-I'm a **Flutter enthusiast** and **Tec lover** on a mission to build apps that are as beautiful as they are functional. My code is my canvas, and I paint with **Dart**, and a sprinkle of creativity. Whether it’s a sleek mobile app or a responsive web interface, I’m all about delivering **pixel-perfect experiences** that make users smile. 😎
-
-- 🎨 **Tech Palette:** Flutter, Dart, Python, Firebase, Supabase, REST APIs  
-- 🌱 **Currently Mastering:** Advanced State Management (BLoC, Provider)  
-- 🤝 **Open to Collaborate:** On innovative Flutter or cross-platform projects  
-- 📬 **Ping Me:** [devmontasir@gmail.com](mailto:devmontasir@gmail.com)  
-- 🌍 **Fun Fact:** I believe great UI/UX can change the world, one tap at a time!  
-
----
-
-## 🚀 My Stellar Projects
-
-### 🌟 [Task Manager App](https://github.com/MontasirOpi/task-manager-app-flutter)  
-> **Tech:** Flutter, Dart, REST API  
-> **What It Does:** A feature-packed task manager with smooth API integration for seamless productivity.  
-> **What I Learned:** Best practices for API calls and state management.  
-
-### ☀️ [Weather App](https://github.com/MontasirOpi/weather-app-using-flutter)  
-> **Tech:** Flutter, REST API  
-> **What It Does:** Fetches real-time weather data with a clean, location-based search interface.  
-> **What I Learned:** Dynamic UI rendering and API-driven content.  
-
-### 🎬 [Movie Explorer App](https://github.com/MontasirOpi/tmdb_move_app)  
-> **Tech:** Flutter, REST API  
-> **What It Does:** A cinematic journey with real-time movie info and sleek UI.  
-> **What I Learned:** Crafting engaging, dynamic layouts.  
-
-### 📚 [Library Management System](https://github.com/MontasirOpi/library_management_system)  
-> **Tech:** Flutter, Supabase  
-> **What It Does:** A student-friendly app for managing library resources with auth and database integration.  
-> **What I Learned:** Authentication flows and database management.  
-
-### 🍵 [Tea Stall Review Website](https://github.com/MontasirOpi/TEA-STALL-REVIEW)  
-> **Live Demo:** [Sip the Experience](https://teastallbd.netlify.app/)  
-> **Tech:** React, JavaScript, Tailwind CSS, Firebase  
-> **What It Does:** A vibrant platform to rate and review tea stalls with a modern UI.  
-
-### 💼 [Portfolio in Flutter](https://github.com/MontasirOpi/portfolio_flutter)  
-> **Live Demo:** [Explore My Work](https://opiwebapp.vercel.app/)  
-> **Tech:** Flutter  
-> **What It Does:** A showcase of my skills and projects in a stunning Flutter web app.  
-
-
-### 💼 [Flutter Package date_with_range_picker](https://github.com/MontasirOpi/portfolio_flutter)  
-> **Tech:** Flutter   
-> **What It Does:** A Package for date and time picker with range functionality
-> **Live:** https://pub.dev/packages/date_with_range_picker
-
-
----
-
-## 🛠 My Toolkit
-Explore the tools and tech I wield to craft digital magic! 🚀
+</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/flutter.png" width="40"/>
-        <br><strong>Flutter</strong><br>Building stunning cross-platform apps
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/dart.png" width="40"/>
-        <br><strong>Dart</strong><br>Powering Flutter with elegance
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
-        <br><strong>Python</strong><br>Scripting and automation wizardry
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40"/>
-        <br><strong>JavaScript</strong><br>Bringing web apps to life
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40"/>
-        <br><strong>React</strong><br>Crafting dynamic web interfaces
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" width="40"/>
-        <br><strong>Tailwind CSS</strong><br>Styling with speed and flair
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/firebase.png" width="40"/>
-        <br><strong>Firebase</strong><br>Real-time backend solutions
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/database.png" width="40"/>
-        <br><strong>Supabase</strong><br>Scalable database management
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="40"/>
-        <br><strong>C++</strong><br>High-performance coding
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/git.png" width="40"/>
-        <br><strong>Git</strong><br>Version control mastery
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/visual-studio.png" width="40"/>
-        <br><strong>VS Code</strong><br>My coding playground
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png" width="40"/>
-        <br><strong>Android Studio</strong><br>App development hub
-      </td>
-    </tr>
-  </table>
+
+# FAHIM MONTASIR OPI
+
+### Flutter Engineer · UI Architect · Open Source Builder
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+cross-platform+apps+with+Flutter;Designing+pixel-perfect+experiences;Turning+ideas+into+shipped+products;Open+to+collaborate+%E2%86%92+devmontasir%40gmail.com)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 📈 My GitHub Universe
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=MontasirOpi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+
+## `whoami`
+
+Flutter-first engineer obsessed with crafting **fast, beautiful, maintainable** apps across mobile and web. I think in components, breathe in widgets, and ship code that users actually enjoy using.
+
+- 🧠 **Core Stack** — Flutter · Dart · Firebase · Supabase
+- 🌐 **Web** — React · Tailwind CSS · JavaScript
+- ⚙️ **State** — BLoC · Provider · Riverpod
+- 🔭 **Now Exploring** — Advanced animation systems & clean architecture
+- 📬 **Reach me** — [devmontasir@gmail.com](mailto:devmontasir@gmail.com)
+- 🌍 **Based in** — Bangladesh
+
+<br clear="right"/>
 
 ---
 
-## 🏆 My Coding Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MontasirOpi&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
+## TECH STACK
+
+<div align="center">
+
+| Category | Technologies |
+|---|---|
+| **Mobile & Cross-platform** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Frontend Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend & Database** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
+
+</div>
 
 ---
 
-## 🌐 Let’s Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/fahim-montasir-opi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/></a>
-  <a href="https://opiwebapp.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=1E90FF"/></a>
-  <a href="https://www.facebook.com/montasiropi/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&color=4267B2"/></a>
-</p>
+## SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 📋 Task Manager App
+**Flutter · Dart · REST API**
+
+Full-featured productivity app with clean API integration, smooth state handling, and an intuitive UX. Built to explore production-grade architecture patterns.
+
+[`View Repo →`](https://github.com/MontasirOpi/task-manager-app-flutter)
+
+</td>
+<td width="50%">
+
+### ☁️ Weather App
+**Flutter · REST API**
+
+Real-time weather with location-based search and dynamic UI rendering. Focused on clean data-driven design and API best practices.
+
+[`View Repo →`](https://github.com/MontasirOpi/weather-app-using-flutter)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎬 Movie Explorer
+**Flutter · TMDB REST API**
+
+Cinematic browsing experience with real-time movie data, dynamic layouts, and polished visual hierarchy.
+
+[`View Repo →`](https://github.com/MontasirOpi/tmdb_move_app)
+
+</td>
+<td width="50%">
+
+### 📚 Library Management System
+**Flutter · Supabase**
+
+Auth-protected student resource manager. Deep dive into authentication flows, relational DB design, and role-based access.
+
+[`View Repo →`](https://github.com/MontasirOpi/library_management_system)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍵 Tea Stall Review Platform
+**React · Firebase · Tailwind CSS**
+
+Community review platform for local tea stalls — vibrant UI, real-time data, fully deployed.
+
+[`Live Demo →`](https://teastallbd.netlify.app/) · [`View Repo →`](https://github.com/MontasirOpi/TEA-STALL-REVIEW)
+
+</td>
+<td width="50%">
+
+### 📦 date_with_range_picker
+**Flutter Package · pub.dev**
+
+Open-source Flutter package for date & time picking with range selection. Published and maintained on pub.dev.
+
+[`pub.dev →`](https://pub.dev/packages/date_with_range_picker) · [`View Repo →`](https://github.com/MontasirOpi/portfolio_flutter)
+
+</td>
+</tr>
+</table>
+
+> 💼 **Portfolio** — [opiwebapp.vercel.app](https://opiwebapp.vercel.app/) — Full Flutter web showcase
 
 ---
 
-## 🎉 Bits About Me
-- 🎨 I’m obsessed with **designing intuitive APP** that feels like magic.  
-- ☕ My coding fuel? A strong cup of coffee and lo-fi beats.  
-- 🌍 I’m a proud contributor to **open-source projects**—let’s build together!  
-- 🧩 Fun Fact: I treat every bug as a puzzle waiting to be solved.  
+## GITHUB METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontasirOpi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MontasirOpi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MontasirOpi&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+</div>
 
 ---
 
-## 📢 Join My Journey!
-Got an idea for a cool Flutter project? Want to geek out over UI/UX or APIs? Drop me a message, and let’s create something extraordinary! 🚀
+## CONTRIBUTION ACTIVITY
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MontasirOpi&style=flat-square&color=0AF745" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MontasirOpi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" width="100%"/>
+</div>
 
 ---
 
-*“Code is poetry, and I’m here to write epics.”* ✍️
+## CONTRIBUTION SNAKE
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MontasirOpi/MontasirOpi/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MontasirOpi/MontasirOpi/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MontasirOpi/MontasirOpi/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+> ⚙️ To activate the snake: go to your profile repo → **Actions** → enable **"Generate Snake"** workflow (uses [Platane/snk](https://github.com/Platane/snk)).
+
+---
+
+## WAKATIME CODING STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MontasirOpi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact" width="500"/>
+</div>
+
+> ⚙️ To activate WakaTime: install the [WakaTime plugin](https://wakatime.com/plugins) in VS Code / Android Studio, connect your account, then add your WakaTime username above.
+
+---
+
+## A BIT MORE ABOUT ME
+
+```dart
+class FahimMontasirOpi {
+  final String role      = "Flutter Engineer";
+  final String based     = "Bangladesh 🇧🇩";
+  final String fuel      = "Coffee ☕ + Lo-fi beats 🎵";
+  final String approach  = "Every bug is a puzzle. Every pixel matters.";
+
+  List<String> get currentlyLearning => [
+    "Advanced Flutter animations",
+    "Clean Architecture patterns",
+    "Scalable BLoC design",
+  ];
+
+  List<String> get openSourceWork => [
+    "date_with_range_picker (pub.dev)",
+    "Actively contributing to Flutter ecosystem",
+  ];
+
+  String get philosophy =>
+    "Great UI/UX isn't decoration — it's communication.";
+}
+```
+
+---
+
+## CONNECT
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahim_Montasir_Opi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-montasir-opi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-opiwebapp.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://opiwebapp.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-montasiropi-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/montasiropi/)
+[![Email](https://img.shields.io/badge/Email-devmontasir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmontasir@gmail.com)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fahim_Montasir_Opi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fahim-montasir-opi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-opiwebapp.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://opiwebapp.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-montasiropi-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/montasiropi/)
+[![Email](https://img.shields.io/badge/Email-devmontasir%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmontasir@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+Have a Flutter project in mind? Let's build something real.
+
+**→** Drop a message or open a collaboration issue.
+
+<img src="https://komarev.com/ghpvc/?username=MontasirOpi&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" />
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
