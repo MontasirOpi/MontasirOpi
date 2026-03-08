@@ -166,6 +166,14 @@ Open-source Flutter package for date & time picking with range selection. Publis
 
 ---
 
+## WAKATIME CODING STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MontasirOpi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&layout=compact" width="500"/>
+</div>
+
+> ⚙️ To activate WakaTime: install the [WakaTime plugin](https://wakatime.com/plugins) in VS Code / Android Studio, connect your account, then add your WakaTime username above.
+
 ---
 
 ## A BIT MORE ABOUT ME
