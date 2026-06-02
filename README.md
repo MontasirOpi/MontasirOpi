@@ -126,7 +126,7 @@ Open-source Flutter package for date & time picking with range selection. Publis
 </tr>
 </table>
 
-> 💼 **Portfolio** — [opiwebapp.vercel.app](https://opiwebapp.vercel.app/) — Full Flutter web showcase
+> 💼 **Portfolio** — [opi.codes](https://opi.codes) — Full Flutter web showcase
 
 ---
 
